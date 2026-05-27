@@ -1,2 +1,2 @@
-# Coffee-Shop-Sales-Analysis-Dashboard
-I developed a Coffee Shop Sales Analysis Dashboard using Excel to analyze sales data and generate business insights. The project includes KPI tracking, sales trends, customer footfall analysis, peak ordering hours, product performance, and store-wise comparisons using pivot tables, charts, slicers, and data visualization.
+Coffee Shop Sales Analysis Dashboard
+The objective of this project is to analyze coffee shop sales data and generate meaningful business insights using Excel. The dashboard helps track sales performance, customer footfall, peak ordering hours, product demand, and store-wise performance through interactive charts, KPI cards, pivot tables, and data visualization techniques.
