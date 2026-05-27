@@ -9,23 +9,14 @@ The objective of this project is to analyze coffee shop sales data and create an
 
 ## Question API's
 Which store location generated the highest sales? 
-
 What are the peak hours for customer orders?
-
 Which product category contributes the most to total sales?
-
 Which products are the top 5 best-selling items?
-
 Which weekdays receive the highest customer footfall?
-
 What is the average bill per customer?
-
 What is the average number of orders per customer?
-
 Which product size is ordered the most?
-
 How do sales vary across different months and weekdays?
-
 Which store has the highest customer footfall?
 
 ## Process
@@ -40,3 +31,7 @@ Created charts for sales trends, product categories, weekdays, and store perform
 Added slicers for interactive filtering and better user experience.
 Built an interactive dashboard to visualize business insights effectively.
 Generated insights to support better business decision-making.
+
+#Dashboard
+<img width="1473" height="751" alt="Coffee Shop Sales Analysis Dashboard image" src="https://github.com/user-attachments/assets/57b781c1-90be-47d8-a91a-67d6739d9440" />
+
