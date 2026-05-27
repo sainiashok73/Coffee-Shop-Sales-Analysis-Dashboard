@@ -27,3 +27,16 @@ Which product size is ordered the most?
 How do sales vary across different months and weekdays?
 
 Which store has the highest customer footfall?
+
+## Process
+⚙️ Process
+Collected coffee shop sales dataset from Kaggle.
+Imported and cleaned the raw dataset in MS Excel.
+Removed duplicate and unnecessary data for accurate analysis.
+Created new columns such as Month, Weekday, Hour, and Sales Amount.
+Used Pivot Tables to summarize and analyze sales data.
+Designed KPI cards for Total Sales, Footfall, Avg Bill, and Avg Orders.
+Created charts for sales trends, product categories, weekdays, and store performance.
+Added slicers for interactive filtering and better user experience.
+Built an interactive dashboard to visualize business insights effectively.
+Generated insights to support better business decision-making.
