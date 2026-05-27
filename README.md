@@ -6,3 +6,15 @@ The objective of this project is to analyze coffee shop sales data and create an
 
 ## Dataset Used
 - <a href="https://github.com/sainiashok73/Coffee-Shop-Sales-Analysis-Dashboard/blob/74c8fccb8ec02e971031352049cea2c7e3c31b38/Coffee%20Shop%20Sales%20Analysis%20Dashboard.xlsx">Dataset</a>
+
+## Question API's
+Which store location generated the highest sales?
+What are the peak hours for customer orders?
+Which product category contributes the most to total sales?
+Which products are the top 5 best-selling items?
+Which weekdays receive the highest customer footfall?
+What is the average bill per customer?
+What is the average number of orders per customer?
+Which product size is ordered the most?
+How do sales vary across different months and weekdays?
+Which store has the highest customer footfall?
